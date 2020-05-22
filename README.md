@@ -1,4 +1,4 @@
-# get_cacti_img
+# 获取cacti流量图
 get cacti image over the filter of csrf
 
 #介绍
